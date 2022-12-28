@@ -6,3 +6,5 @@ This repository will contain all the basic to advanced level JavaScript projects
 ## Projects
 
 - <a href="https://modern-stopwatch-js.netlify.app/" alt="Stopwatch">Modern Stopwatch</a>
+
+- <a href="https://diceegamejs.netlify.app/" alt="diceegame">Dice game</a>
