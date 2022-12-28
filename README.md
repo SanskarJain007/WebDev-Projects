@@ -5,3 +5,4 @@ This repository will contain all the basic to advanced level JavaScript projects
 # Live Project Actions👇👇
 ## Projects
 
+- <a href="https://modern-stopwatch-js.netlify.app/" alt="Stopwatch">Modern Stopwatch</a>
