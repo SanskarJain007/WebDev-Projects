@@ -1,0 +1,43 @@
+h1, h2{
+  text-align: center;
+  font-size: 40px;
+  color: yellow;
+  border: 2px yellow dotted;
+  box-sizing: content-box;
+}
+body {
+    background: #0b1028;
+}
+
+.stopwatch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px; 
+}
+
+input[type="button"]{
+    color: yellow;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    outline: none;
+}
+.Time{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 30px;
+    font-size: 50px;
+}
+.laps{
+    background-color: rgb(101, 8, 250);
+    font-size: 20px;
+    color:rgb(99, 214, 137);
+    text-align: center;
+    list-style-type: none;
+}
+.wrapper{
+  border: 10px solid black;
+}
