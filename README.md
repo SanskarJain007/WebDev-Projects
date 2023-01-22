@@ -10,3 +10,5 @@ This repository will contain all the basic to advanced level JavaScript projects
 - <a href="https://diceegamejs.netlify.app/" alt="diceegame">Dice game</a>
 
 - <a href="https://diceegamejs.netlify.app/" alt="diceegame">Drum Kit</a>
+
+- <a href="https://passengercounts.netlify.app/" alt="Passenger Counter">Passenger Counter</a>
