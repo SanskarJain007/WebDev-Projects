@@ -12,3 +12,5 @@ This repository will contain all the basic to advanced level Web Development pro
 - <a href="https://diceegamejs.netlify.app/" alt="diceegame">Drum Kit</a>
 
 - <a href="https://passengercounts.netlify.app/" alt="Passenger Counter">Passenger Counter</a>
+
+- <a href="https://thesimonsgame.netlify.app/" alt="https://thesimonsgame.netlify.app/">The Simon Game</a>
