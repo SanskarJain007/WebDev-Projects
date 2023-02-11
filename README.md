@@ -1,6 +1,6 @@
-# JavaScript-Projects
+# WebDev-Projects
 
-This repository will contain all the basic to advanced level JavaScript projects which I will make.
+This repository will contain all the basic to advanced level Web Development projects which I will make.
 
 # Live Project Actions👇👇
 ## Projects
